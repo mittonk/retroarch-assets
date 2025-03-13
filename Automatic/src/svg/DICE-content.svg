@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="256pt"
+   height="256pt"
+   viewBox="0 0 256 256"
+   preserveAspectRatio="xMidYMid"
+   id="svg8"
+   sodipodi:docname="DICE.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="true"
+     inkscape:zoom="0.84228516"
+     inkscape:cx="319.9629"
+     inkscape:cy="319.36927"
+     inkscape:window-width="1144"
+     inkscape:window-height="781"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       id="grid1"
+       units="pt"
+       originx="0"
+       originy="0"
+       spacingx="8"
+       spacingy="8"
+       empcolor="#e50046"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="8"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1">
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+  <g
+     transform="matrix(0.05009855,0,0,-0.04991304,-0.89228993,255.58261)"
+     fill="#000000"
+     stroke="none"
+     id="g8"
+     style="fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:59.99315001;stroke-dasharray:none">
+    <path
+       d="M 1440,4800 V 4640 H 1280 1120 V 4480 4320 H 960 800 V 4160 4000 H 640 480 V 3840 3680 H 320 160 V 2080 480 H 320 480 V 320 160 h 1600 1600 v 160 160 h 160 160 v 160 160 h 160 160 v 160 160 h 160 160 v 160 160 h 160 160 v 1600 1600 h -160 -160 v 160 160 H 3040 1440 Z m 2880,-320 v -160 h 160 160 V 2880 1440 H 4480 4320 V 1280 1120 H 4160 4000 V 960 800 H 3840 3680 V 2240 3680 H 2240 800 v 160 160 h 160 160 v 160 160 h 160 160 v 160 160 H 2880 4320 Z M 3360,1920 V 480 H 1920 480 v 1440 1440 h 1440 1440 z"
+       id="path1"
+       style="fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:59.99315001;stroke-dasharray:none" />
+    <path
+       d="m 2400,4160 v -160 h 160 160 v 160 160 h -160 -160 z"
+       id="path2"
+       style="fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:59.99315001;stroke-dasharray:none" />
+    <path
+       d="m 4000,4160 v -160 h -160 -160 v -160 -160 h 160 160 v 160 160 h 160 160 v 160 160 h -160 -160 z"
+       id="path3"
+       style="fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:59.99315001;stroke-dasharray:none" />
+    <path
+       d="m 4000,3200 v -160 h 160 160 v 160 160 h -160 -160 z"
+       id="path4"
+       style="fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:59.99315001;stroke-dasharray:none" />
+    <path
+       d="m 4000,1920 v -160 h 160 160 v 160 160 h -160 -160 z"
+       id="path5"
+       style="fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:59.99315001;stroke-dasharray:none" />
+    <path
+       d="m 800,2400 v -640 h 160 160 v 640 640 H 960 800 Z"
+       id="path6"
+       style="fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:59.99315001;stroke-dasharray:none" />
+    <path
+       d="m 1760,1920 v -160 h 160 160 v 160 160 h -160 -160 z"
+       id="path7"
+       style="fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:59.99315001;stroke-dasharray:none" />
+    <path
+       d="M 2720,1440 V 800 h 160 160 v 640 640 h -160 -160 z"
+       id="path8"
+       style="fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:59.99315001;stroke-dasharray:none" />
+  </g>
+</svg>
